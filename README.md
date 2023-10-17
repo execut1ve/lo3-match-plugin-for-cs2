@@ -4,7 +4,7 @@
 ## How to Install
 - Install [Metamod](https://www.sourcemm.net/downloads.php?branch=dev)
 - Install [LuaUnlocker](https://github.com/Source2ZE/LuaUnlocker)
-- Extract the package contents into `game/csgo`` on your server
+- Extract the package contents into `game/csgo` on your server
 - Add `exec lo3_matchplugin` to your servers gamemode cfg (e.g. `gamemode_competitive.cfg`)
 
 ## How it works
