@@ -1,4 +1,6 @@
-# lo3-match-plugin-for-cs2
+
+# THIS REPOSITORY IS NO LONGER SUPPORTED and WE RECOMMEND [MatchZy](https://github.com/shobhit-pathak/MatchZy)
+<s># lo3-match-plugin-for-cs2
 5vs5 competitive match plugin written in Lua VScript for Counter-Strike 2.
 
 ## How to Install
@@ -19,4 +21,4 @@
 - `.forceend` Cancel a match
 
 ## Credit
-[@execut1ve](https://twitter.com/execut1ve)
+[@execut1ve](https://twitter.com/execut1ve)</s>
